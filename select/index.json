@@ -1,0 +1,193 @@
+{
+  "version": 1,
+  "base_track": "Mighty Long Fall",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-04-01T03:15:56.047362Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mighty Long Fall",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_Mighty_Long_Fall_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mighty Long Fall",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Mighty_Long_Fall_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mighty Long Fall (Japanese Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Mighty_Long_Fall_(Japanese_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Mighty Long Fall (Studio Jam Session)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Mighty_Long_Fall_(Studio_Jam_Session)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mighty Long Fall",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/05_Mighty_Long_Fall_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mighty Long Fall",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Mighty_Long_Fall_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mighty Long Fall (Acoustic Version)",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/07_Mighty_Long_Fall_(Acoustic_Version)_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Mighty Fall",
+      "artist": "Fall Out Boy feat. Big Sean",
+      "has_synced": true,
+      "path": "select/08_The_Mighty_Fall_Fall_Out_Boy_feat._Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Mighty Fall (Feat. Big Sean)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/09_The_Mighty_Fall_(Feat._Big_Sean)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Mighty Fall - Commentary",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/10_The_Mighty_Fall_-_Commentary_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Mighty Fall",
+      "artist": "Fall Out Boy/Big Sean",
+      "has_synced": true,
+      "path": "select/11_The_Mighty_Fall_Fall_Out_Boy_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Mighty Fall (feat. Big Sean)",
+      "artist": "Fall Out Boy, Big Sean",
+      "has_synced": true,
+      "path": "select/12_The_Mighty_Fall_(feat._Big_Sean)_Fall_Out_Boy,_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Oh How The Mighty Fall",
+      "artist": "Lovex",
+      "has_synced": true,
+      "path": "select/13_Oh_How_The_Mighty_Fall_Lovex.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Mighty Fall (Feat. Big Sean)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/14_The_Mighty_Fall_(Feat._Big_Sean)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "How the Mighty Fall",
+      "artist": "Charles Wesley Godwin",
+      "has_synced": true,
+      "path": "select/15_How_the_Mighty_Fall_Charles_Wesley_Godwin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Mighty Fall",
+      "artist": "Fall Out Boy feat. Big Sean",
+      "has_synced": true,
+      "path": "select/16_The_Mighty_Fall_Fall_Out_Boy_feat._Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Mighty Fall (Album Version) [feat. Big Sean]",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/17_The_Mighty_Fall_(Album_Version)_[feat._Big_Sean]_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "The Mighty Fall (Feat. Big Sean)",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/18_The_Mighty_Fall_(Feat._Big_Sean)_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "How the Mighty Fall",
+      "artist": "The Alarm",
+      "has_synced": false,
+      "path": "select/19_How_the_Mighty_Fall_The_Alarm.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "The Mighty Fall Ft Big Sean",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/20_The_Mighty_Fall_Ft_Big_Sean_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "The Mighty Fall [feat. Big Sean]",
+      "artist": "Fall Out Boy",
+      "has_synced": true,
+      "path": "select/21_The_Mighty_Fall_[feat._Big_Sean]_Fall_Out_Boy.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "How the mighty fall",
+      "artist": "Clara Luzia",
+      "has_synced": false,
+      "path": "select/22_How_the_mighty_fall_Clara_Luzia.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Mighty Long Fall",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/localdb_01_Mighty_Long_Fall_ONE_OK_ROCK.lrc",
+      "repo_name": "UjZqcDYbvAE"
+    }
+  ]
+}
